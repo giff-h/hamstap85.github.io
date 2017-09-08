@@ -10,7 +10,7 @@ baseurl:
 harmony:
   name: hamstap85.github.io
   # Little description about your site
-  description: The explorations of a junior dev
+  description: The explorations of a developer
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
