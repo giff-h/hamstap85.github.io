@@ -4,24 +4,20 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hi, I am Hameed Gifford, a junior developer in Nashville TN.
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+This is just something that I'm slowly putting together, so I can have a better presence on the web.
+
+Want to try to build a similar one for yourself? It uses [Jekyll][jekyll], and the [Harmony][harmony] theme.
 
 ### Contact me
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Find me on [Github][github] / [Twitter][twitter] / [Facebook][fb] or just [shoot me an email](giff.h92@gmail.com).
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
 [jekyll]: http://jekyllrb.com
+[harmony]: https://github.com/gayanvirajith/harmony
 [github]: https://github.com/gayanvirajith
 [google]: https://plus.google.com/+GayanVirajith
 [twitter]: https://twitter.com/gayanvirajith
+[fb]: https://www.facebook.com/hamstap85
