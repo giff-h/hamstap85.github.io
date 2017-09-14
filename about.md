@@ -17,7 +17,6 @@ Find me on [Github][github] / [Twitter][twitter] / [Facebook][fb] or just [shoot
 
 [jekyll]: http://jekyllrb.com
 [harmony]: https://github.com/gayanvirajith/harmony
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[github]: https://github.com/hamstap85
+[twitter]: https://twitter.com/hamstap85
 [fb]: https://www.facebook.com/hamstap85

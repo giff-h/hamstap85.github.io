@@ -2,31 +2,44 @@
 layout: default
 ---
 <div id="home" class="page-content wc-container">
-	<h3>My Ongoing Projects</h3>
-	<ul class="sample-github">
-		<li>
-			<a href="{{ '/cahgen_django' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>cahgen_django</h5></a>
-			<p>A server for generating custom Cards Against Humanity style cards in PDF for printing</p>
-		</li>
-		<li>
-			<a href="{{ '/mc_occ' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>mc_occ</h5></a>
-			<p>A script for turning a minecraft build into one command for ease of command block use</p>
-		</li>
-		<li>
-			<a href="{{ '/nonogram-solver' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>nonogram-solver</h5></a>
-			<p>Very fast solver for nonogram puzzles</p>
-		</li>
-		<li>
-			<a href="{{ '/h85collections' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>h85collections</h5></a>
-			<p>A collection of aider code I use frequently</p>
-		</li>
-		<li>
-			<a href="{{ '/nand2tetris' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>nand2tetris</h5></a>
-			<p>Learning how a computer works from the ground up, logic gates and everything</p>
-		</li>
-		<li>
-			<a href="{{ '/SynacorChallenge' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>SynacorChallenge</h5></a>
-			<p>Quite the interesting challeng. Had to write an assembly-style instruction set to read a binary file</p>
-		</li>
-	</ul>
+	<div id="about" class="post">
+		<h3>Who am I</h3>
+		<p>Hi, I am Hameed Gifford, a junior developer in Nashville TN.</p>
+		<p>My technical skills include Python, Ruby, HTML, CSS, JavaScript, SQL, and a number of other languages and libraries including Django, reportlab, JQuery, and React (ongoing). I'm quite adept with web scraping using xpath with lxml or nokogiri, and I'm learning scrapy.</p>
+		<p>My professional experience includes maintaining a non-profit's CRM database, and using Python to do some manual clean-up of the data in it.</p>
+		<p>My hobby experience is mostly in Linux and Python applets, especially using web scraping to make my own API for websites that didn't have an API.</p>
+	</div>
+	<div id="contact" class="post">
+		<h3 id="contact-me">Contact me</h3>
+		<p>Find me on <a href="{{ site.harmony.social.github | prepend: 'https://github.com/' }}">Github</a> / <a href="{{ site.harmony.social.twitter | prepend: 'https://twitter.com/' }}">Twitter</a> / <a href="{{ site.harmony.social.facebook | prepend: 'https://facebook.com/' }}">Facebook</a> / <a href="https://www.linkedin.com/in/hameed-gifford-670b0b97/">LinkedIn</a> or just <a href="mailto:giff.h92@gmail.com">shoot me an email</a>.</p>
+	</div>
+	<div id="githubs" class="post">
+		<h3>My Ongoing Projects</h3>
+		<ul class="sample-github">
+			<li>
+				<a href="{{ '/cahgen_django' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>CAH card creator</h5></a>
+				<p>A server for generating custom Cards Against Humanity style cards in PDF for printing</p>
+			</li>
+			<li>
+				<a href="{{ '/mc_occ' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>minecraft one-command challenge</h5></a>
+				<p>A script for turning a minecraft build into one command for ease of command block use</p>
+			</li>
+			<li>
+				<a href="{{ '/nonogram-solver' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>nonogram solver</h5></a>
+				<p>Very fast solver for nonogram puzzles</p>
+			</li>
+			<li>
+				<a href="{{ '/h85collections' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>h85collections</h5></a>
+				<p>A collection of aider code I use frequently</p>
+			</li>
+			<li>
+				<a href="{{ '/nand2tetris' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>nand2tetris</h5></a>
+				<p>Learning how a computer works from the ground up, logic gates and everything</p>
+			</li>
+			<li>
+				<a href="{{ '/SynacorChallenge' | prepend: site.harmony.social.github | prepend: 'https://github.com/' }}"><h5>SynacorChallenge</h5></a>
+				<p>Quite the interesting challeng. Had to write an assembly-style instruction set to read a binary file</p>
+			</li>
+		</ul>
+	</div>
 </div>
