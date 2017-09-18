@@ -8,9 +8,9 @@ baseurl:
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: hamstap85.github.io
+  name: Hameed Gifford
   # Little description about your site
-  description: The explorations of a developer
+  description:
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
@@ -31,7 +31,6 @@ harmony:
   social:
     github: hamstap85
     twitter: hamstap85
-    facebook: hamstap85
   # Toggle disclaimer in footer
   show_disclaimer: false
 
